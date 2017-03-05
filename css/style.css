@@ -1,0 +1,17 @@
+.card {
+	background: pink;
+	border: 1px solid grey;
+	border-radius: 20px;
+	padding: 40px;
+	box-shadow: 10px 10px 5px #888888;
+	margin-bottom: 20px;
+}
+
+.profile-pic {
+	max-width: 50%;
+}
+.myvideo {
+	height: 200px;
+	width: 400px;
+
+}
